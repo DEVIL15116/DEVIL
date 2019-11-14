@@ -1,0 +1,9 @@
+production:
+    adapter: bisu
+    database: bisu_database
+    username: bisu
+    password: bisu
+    host: auto
+    port: auto
+    pool: 75
+    timeout: 5
